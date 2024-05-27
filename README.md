@@ -1,7 +1,7 @@
 # Volker-Boehm
 
 
-#### _My Name is **Volker** and I am [X] professional photographer and want to become a [ ] Web Deveoper._
+#### _My Name is **Volker Boehm** and I am Web Deveoper._
 
 ---
 
